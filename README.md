@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://miro.medium.com/v2/resize:fit:1400/0*x4rQFjfi0iK3gS1T.gif">
+<img align="center" alt="Coding" src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif">
 <h1 align="center">Hi 👋, I'm Chethan Shetty C R</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif">
