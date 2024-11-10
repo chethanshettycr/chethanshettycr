@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Core Java, MySQL & Oracle, HTML, CSS, JAVASCRIPT, FRAMEWORKS SUCH AS HIBERNATE, SPRING, REACT.**
 
 - 📫 How to reach me **chethanshetty1117@gmail.com**
-- 📄 Know about my experience [https://drive.google.com/file/d/1q25qr9rROcKp3yja27xqmNAPu9cnl6wl/view?usp=sharing](https://drive.google.com/file/d/1q25qr9rROcKp3yja27xqmNAPu9cnl6wl/view?usp=sharing)
+- 📄 Know about my experience [Click here to see my Resume](https://drive.google.com/file/d/1q25qr9rROcKp3yja27xqmNAPu9cnl6wl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
