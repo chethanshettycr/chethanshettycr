@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanshettycr&label=Profile%20views&color=0e75b6&style=flat" alt="chethanshettycr" /> </p>
 
-- 🌱 I’m currently learning **Core Java, MySQL & Oracle, HTML, CSS, JAVASCRIPT, FRAMEWORKS SUCH AS HIBERNATE, SPRING, REACT.**Hence **I am Open To Work**
+- 🌱 I’m currently learning **Core Java, MySQL & Oracle, HTML, CSS, JAVASCRIPT, FRAMEWORKS SUCH AS HIBERNATE, SPRING, REACT**.
+  Hence **I am Open To Work**
 
 - 📫 How to reach me **chethanshetty1117@gmail.com**
 - 📄 Know about my experience [**Resume Link**](https://drive.google.com/file/d/1q25qr9rROcKp3yja27xqmNAPu9cnl6wl/view?usp=sharing)
