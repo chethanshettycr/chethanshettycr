@@ -9,7 +9,7 @@
   Hence **I am Open To Work**
 
 - 📫 How to reach me **chethanshetty1117@gmail.com**
-- 📄 Know about my experience [**Resume Link**](https://drive.google.com/file/d/1q25qr9rROcKp3yja27xqmNAPu9cnl6wl/view?usp=sharing)
+- 📄 Know about my experience [**Resume Link**](https://github.com/user-attachments/files/18573584/Chethan_Shetty_Resumepic.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
